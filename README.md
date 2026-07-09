@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="left">Hi !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**erfanmhi-23/erfanmhi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+   My name is Erfan <br>
+   Backend Developer | Python & Django
+</p>
 
-Here are some ideas to get you started:
+###
+><h2 align="left">🎓 Skills</h2>
+[![My Skills](https://skillicons.dev/icons?i=html,css,django,py,docker,git,github,mysql,postgres,nginx,postman,redis,ubuntu,vscode,linkedin)](https://skillicons.dev)
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+><h2 align="left"> ✨ Contact Me</h2>
+<br/>
+<div align="left">
+  <a href="mailto:erfan.mhi.2006@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/gmail--v2.png" height="35" alt="gmail logo"  />
+  </a>
+  <a href="linkedin.com/in/erfan-mohammadkhani/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="github.com/erfanmhi-23" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v2.png" height="35" alt="github"  />
+  </a>
+</div>
