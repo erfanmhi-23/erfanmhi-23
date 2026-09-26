@@ -7,7 +7,7 @@
 
 ###
 ><h2 align="left">🎓 Skills</h2>
-[![My Skills](https://skillicons.dev/icons?i=html,py,git,github,mysql,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git,github,mysql,linkedin)](https://skillicons.dev)
 <br/>
 
 ###
